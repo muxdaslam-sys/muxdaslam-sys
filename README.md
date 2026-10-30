@@ -50,10 +50,10 @@ public class Profile
     </a>
   </p>
 
-  <!-- STATS -->
+  <!-- WORKING OBSIDIAN STATS CARDS -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=muxdaslam-sys&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&border_color=06b6d4&bg_color=030712&title_color=38bdf8&icon_color=06b6d4&text_color=94a3b8" width="48%" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muxdaslam-sys&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&border_color=06b6d4&bg_color=030712&title_color=38bdf8&text_color=94a3b8&langs_count=6" width="48%" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muxdaslam-sys&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&border_color=06b6d4&bg_color=030712&title_color=38bdf8&icon_color=06b6d4&text_color=94a3b8" width="48%" alt="Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muxdaslam-sys&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&border_color=06b6d4&bg_color=030712&title_color=38bdf8&text_color=94a3b8&langs_count=6" width="48%" alt="Top Languages" />
   </p>
 
   <sub>🚀 Open to Senior / High-Impact .NET & Angular roles in Kochi, Bangalore & Remote.</sub>
